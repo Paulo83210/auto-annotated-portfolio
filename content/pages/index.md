@@ -83,6 +83,7 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: Projects
+    title: Partenaires
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
