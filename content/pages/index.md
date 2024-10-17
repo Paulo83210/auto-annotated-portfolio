@@ -46,7 +46,7 @@ sections:
     text: |
       Description
   - type: FeaturedItemsSection
-    title: Value propositions
+    title: Comprendre le composable
     items:
       - type: FeaturedItem
         title: I'm Fast
