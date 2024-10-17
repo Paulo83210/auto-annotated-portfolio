@@ -82,7 +82,7 @@ sections:
           - pr-4
         justifyContent: flex-end
         margin:
-          - mr-6
+          - mr-0
       title:
         textAlign: center
       subtitle:
