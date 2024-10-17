@@ -82,7 +82,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: Projects
+    subtitle: Le meilleur du composable
     title: Partenaires
   - type: FeaturedPostsSection
     elementId: ''
