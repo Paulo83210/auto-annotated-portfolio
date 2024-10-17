@@ -158,7 +158,7 @@ sections:
         - name: addresse
           label: Addresse
           hideLabel: true
-          placeholder: Address
+          placeholder: Addresse
           isRequired: true
           width: 1/2
           type: TextFormControl
