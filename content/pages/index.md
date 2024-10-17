@@ -79,7 +79,7 @@ sections:
           - pt-36
           - pb-48
           - pl-4
-          - pr-16
+          - pr-4
         justifyContent: center
         margin:
           - mr-0
