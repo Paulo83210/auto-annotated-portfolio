@@ -60,7 +60,7 @@ sections:
         caption: ''
         elementId: ''
       - type: ImageBlock
-        url: /images/logo3.svg
+        url: /images/bg4.jpg
         altText: ''
         caption: ''
         elementId: ''
