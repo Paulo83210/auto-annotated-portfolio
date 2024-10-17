@@ -4,7 +4,7 @@ title: Partenaires
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/TEST.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
