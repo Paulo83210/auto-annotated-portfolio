@@ -7,7 +7,7 @@ client: Description de Netlify plus étoffée.
 description: Description de Netlify plus étoffée.
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/TEST.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
