@@ -47,7 +47,7 @@ sections:
       Description
   - type: MediaGallerySection
     title: Gallery
-    subtitle: This is the subtitle
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/logo1.svg
