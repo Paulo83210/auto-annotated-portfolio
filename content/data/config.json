@@ -65,7 +65,7 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Des questions ?",
-            "phoneNumber": "5146522501",
+            "phoneNumber": "514 652 2501",
             "phoneAltText": "My phone number",
             "email": "thisismyemail.@myemail.me",
             "emailAltText": "My email",
