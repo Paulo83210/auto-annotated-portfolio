@@ -4,7 +4,7 @@ title: COVEO
 colors: colors-a
 date: '2022-01-22'
 client: Description de Coveo
-description: ''
+description: Description de Coveo
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
