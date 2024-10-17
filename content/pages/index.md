@@ -52,7 +52,7 @@ sections:
       - type: ImageBlock
         url: /images/bg1.jpg
         altText: ''
-        caption: Caption of the image
+        caption: ''
         elementId: ''
       - type: ImageBlock
         url: /images/logo2.svg
