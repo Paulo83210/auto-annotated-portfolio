@@ -51,7 +51,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/bg1.jpg
-        altText: logo one
+        altText: ''
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
