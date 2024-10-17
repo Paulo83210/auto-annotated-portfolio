@@ -483,7 +483,7 @@ sections:
           - pb-0
           - pl-0
           - pr-0
-        justifyContent: flex-start
+        justifyContent: center
       title:
         textAlign: left
       subtitle:
