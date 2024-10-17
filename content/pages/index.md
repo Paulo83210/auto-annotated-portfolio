@@ -45,48 +45,6 @@ sections:
     actions: []
     text: |
       Description
-  - type: MediaGallerySection
-    title: Nos partenaires
-    subtitle: ''
-    images:
-      - type: ImageBlock
-        url: /images/bg3.jpg
-        altText: ''
-        caption: ''
-        elementId: ''
-      - type: ImageBlock
-        url: /images/bg3.jpg
-        altText: ''
-        caption: ''
-        elementId: ''
-      - type: ImageBlock
-        url: /images/bg3.jpg
-        altText: ''
-        caption: ''
-        elementId: ''
-    colors: colors-f
-    spacing: 33
-    columns: 3
-    aspectRatio: '16:9'
-    showCaption: true
-    enableHover: true
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-16
-          - pb-16
-          - pl-16
-          - pr-16
-        justifyContent: center
-        margin:
-          - mr-0
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
   - type: FeaturedItemsSection
     title: Comprendre le Composable
     items:
@@ -214,6 +172,48 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+  - type: MediaGallerySection
+    title: Nos partenaires
+    subtitle: ''
+    images:
+      - type: ImageBlock
+        url: /images/bg3.jpg
+        altText: ''
+        caption: ''
+        elementId: ''
+      - type: ImageBlock
+        url: /images/bg3.jpg
+        altText: ''
+        caption: ''
+        elementId: ''
+      - type: ImageBlock
+        url: /images/bg3.jpg
+        altText: ''
+        caption: ''
+        elementId: ''
+    colors: colors-f
+    spacing: 33
+    columns: 3
+    aspectRatio: '16:9'
+    showCaption: true
+    enableHover: true
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-16
+          - pb-16
+          - pl-16
+          - pr-16
+        justifyContent: center
+        margin:
+          - mr-0
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
