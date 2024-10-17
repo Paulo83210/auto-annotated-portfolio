@@ -65,7 +65,7 @@ sections:
         caption: ''
         elementId: ''
     colors: colors-f
-    spacing: 16
+    spacing: 33
     columns: 3
     aspectRatio: '16:9'
     showCaption: true
