@@ -64,7 +64,7 @@ sections:
         altText: ''
         caption: ''
         elementId: ''
-    colors: colors-b
+    colors: colors-a
     spacing: 16
     columns: 5
     aspectRatio: '16:9'
