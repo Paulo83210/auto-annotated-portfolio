@@ -205,7 +205,7 @@ sections:
         padding:
           - pt-36
           - pb-48
-          - pl-12
+          - pl-4
           - pr-12
         justifyContent: center
       title:
