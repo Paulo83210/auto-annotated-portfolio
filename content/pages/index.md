@@ -61,7 +61,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/logo3.svg
-        altText: logo three
+        altText: ''
         caption: Caption of the image
         elementId: ''
     colors: colors-a
