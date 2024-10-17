@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Titre
-    subtitle: Description
+    subtitle: Sous-titre
     styles:
       self:
         height: auto
