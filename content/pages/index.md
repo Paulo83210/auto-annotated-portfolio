@@ -66,7 +66,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/bg1.jpg
-        altText: altText of the image
+        altText: ''
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
