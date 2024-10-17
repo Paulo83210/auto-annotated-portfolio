@@ -77,7 +77,7 @@ sections:
         width: wide
         padding:
           - pt-36
-          - pb-16
+          - pb-48
           - pl-16
           - pr-16
         justifyContent: center
