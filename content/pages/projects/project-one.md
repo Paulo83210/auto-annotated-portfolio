@@ -4,7 +4,7 @@ title: Contentstack
 colors: colors-a
 date: '2021-10-15'
 client: description de contentstack
-description: Description de contentstack
+description: Description de Netlify plus étoffée.
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
