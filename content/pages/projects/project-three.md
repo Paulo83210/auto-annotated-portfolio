@@ -4,7 +4,7 @@ title: Coveo
 colors: colors-a
 date: '2022-01-22'
 client: ''
-description: ''
+description: Description de Netlify plus étoffée.
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
