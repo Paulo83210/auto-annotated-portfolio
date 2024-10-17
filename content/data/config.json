@@ -62,16 +62,6 @@
                 "altText": ""
             }
         ],
-        "contacts": {
-            "type": "ContactBlock",
-            "title": "Des questions ?",
-            "phoneNumber": "",
-            "phoneAltText": "",
-            "email": "",
-            "emailAltText": "",
-            "address": "",
-            "addressAltText": ""
-        },
         "copyrightText": "Powered by [Netlify ](https://www.netlify.com/)\n",
         "styles": {
             "self": {
