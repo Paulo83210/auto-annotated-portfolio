@@ -203,10 +203,10 @@ sections:
         height: auto
         width: wide
         padding:
-          - pt-16
-          - pb-16
-          - pl-16
-          - pr-16
+          - pt-12
+          - pb-12
+          - pl-12
+          - pr-12
         justifyContent: center
       title:
         textAlign: left
