@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: COVEO
+title: Coveo
 colors: colors-a
 date: '2022-01-22'
 client: Description de Netlify plus étoffée.
