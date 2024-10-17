@@ -62,7 +62,7 @@ sections:
       - type: ImageBlock
         url: /images/logo3.svg
         altText: ''
-        caption: Caption of the image
+        caption: ''
         elementId: ''
     colors: colors-a
     spacing: 16
