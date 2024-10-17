@@ -50,7 +50,7 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/TEST.jpg
+        url: /images/bg3.jpg
         altText: ''
         caption: ''
         elementId: ''
