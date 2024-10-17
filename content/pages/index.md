@@ -203,7 +203,7 @@ sections:
         height: auto
         width: wide
         padding:
-          - pt-12
+          - pt-36
           - pb-12
           - pl-12
           - pr-12
