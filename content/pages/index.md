@@ -219,7 +219,7 @@ sections:
     elementId: ''
     actions:
       - type: Link
-        label: See all projects
+        label: Voir tous les partenaires
         url: /projects
     showDate: false
     showDescription: true
