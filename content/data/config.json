@@ -57,7 +57,7 @@
             },
             {
                 "type": "Link",
-                "label": "Contact",
+                "label": "contact",
                 "url": "mailto:thisismyemail.@myemail.me",
                 "altText": ""
             },
