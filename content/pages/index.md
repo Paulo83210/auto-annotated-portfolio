@@ -50,7 +50,7 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/bg3.jpg
+        url: /images/netlify-logo-png-transparent 2.png
         altText: ''
         caption: ''
         elementId: ''
