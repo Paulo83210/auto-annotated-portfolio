@@ -137,7 +137,7 @@ sections:
         - name: Prénom
           label: Prénom
           hideLabel: true
-          placeholder: First Name
+          placeholder: Prénom
           isRequired: true
           width: 1/2
           type: TextFormControl
