@@ -50,7 +50,7 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/netlify-logo-png-transparent 2.png
+        url: /images/netlify-logo-png-transparent 2-2.png
         altText: ''
         caption: ''
         elementId: ''
