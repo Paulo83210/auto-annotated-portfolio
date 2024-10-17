@@ -3,7 +3,7 @@ type: ProjectLayout
 title: COVEO
 colors: colors-a
 date: '2022-01-22'
-client: Description de Coveo
+client: Description de Netlify plus étoffée.
 description: Description de Coveo
 featuredImage:
   type: ImageBlock
