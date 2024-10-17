@@ -76,10 +76,10 @@ sections:
         height: auto
         width: full
         padding:
-          - pt-0
-          - pb-0
-          - pl-0
-          - pr-0
+          - pt-16
+          - pb-16
+          - pl-16
+          - pr-16
         justifyContent: center
         margin:
           - mr-0
