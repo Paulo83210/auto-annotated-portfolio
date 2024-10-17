@@ -70,7 +70,7 @@
             "email": "paul.varlet@valtech.com",
             "emailAltText": "My email",
             "address": "",
-            "addressAltText": "My address"
+            "addressAltText": ""
         },
         "copyrightText": "Powered by [Netlify ](https://www.netlify.com/)\n",
         "styles": {
