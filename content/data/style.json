@@ -1,12 +1,12 @@
 {
     "type": "ThemeStyle",
     "light": "#ffffff",
-    "onLight": "#050806",
+    "onLight": "#00034A",
     "dark": "#000000",
     "onDark": "#FBFFF2",
-    "primary": "#0804F6",
+    "primary": "#305DF5",
     "onPrimary": "#FBFFF2",
-    "secondary": "#FE491F",
+    "secondary": "#FF355A",
     "onSecondary": "#050806",
     "complementary": "#565862",
     "onComplementary": "#FBFFF2",
@@ -15,7 +15,7 @@
         "size": "6xl",
         "weight": "medium",
         "decoration": "none",
-        "case": "uppercase",
+        "case": "capitalize",
         "letterSpacing": "normal"
     },
     "h2": {
@@ -30,7 +30,7 @@
         "weight": "normal",
         "decoration": "none",
         "case": "uppercase",
-        "letterSpacing": "normal"
+        "letterSpacing": "tight"
     },
     "h4": {
         "size": "3xl",

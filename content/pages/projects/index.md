@@ -1,10 +1,10 @@
 ---
 type: ProjectFeedLayout
-title: Projects
+title: Partenaires
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/TEST.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -25,6 +25,7 @@ projectFeed:
         - pl-4
         - pr-4
         - pb-12
+  title: ''
 styles:
   title:
     textAlign: left
