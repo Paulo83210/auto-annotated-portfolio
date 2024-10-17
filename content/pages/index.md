@@ -55,7 +55,7 @@ sections:
         caption: ''
         elementId: ''
       - type: ImageBlock
-        url: /images/bg3.jpg
+        url: /images/CT.LOGO.png
         altText: ''
         caption: ''
         elementId: ''
