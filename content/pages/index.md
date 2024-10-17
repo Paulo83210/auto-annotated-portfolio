@@ -194,7 +194,7 @@ sections:
             textAlign: left
     actions: []
     colors: colors-f
-    columns: 4
+    columns: 3
     spacingX: 16
     spacingY: 16
     elementId: ''
