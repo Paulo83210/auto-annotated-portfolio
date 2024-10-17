@@ -78,7 +78,7 @@ sections:
         padding:
           - pt-36
           - pb-48
-          - pl-16
+          - pl-4
           - pr-16
         justifyContent: center
         margin:
