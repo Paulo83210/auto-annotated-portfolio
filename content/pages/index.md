@@ -144,7 +144,7 @@ sections:
         - name: Nom
           label: Nom
           hideLabel: true
-          placeholder: Last Name
+          placeholder: Nom
           isRequired: false
           width: 1/2
           type: TextFormControl
