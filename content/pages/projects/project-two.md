@@ -4,7 +4,7 @@ title: Netlify
 colors: colors-a
 date: '2021-12-20'
 client: ''
-description: Description de Netlify
+description: Description de Netlify plus étoffée.
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
