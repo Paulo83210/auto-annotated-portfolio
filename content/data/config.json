@@ -60,12 +60,6 @@
                 "label": "contact",
                 "url": "mailto:thisismyemail.@paul.varlet@valtech.com",
                 "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "altText": "Netlify templates"
             }
         ],
         "contacts": {
