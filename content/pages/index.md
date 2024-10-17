@@ -52,7 +52,7 @@ sections:
       - type: ImageBlock
         url: /images/netlify-logo-png-transparent 2-2.png
         altText: ''
-        caption: Netlify
+        caption: ''
         elementId: ''
       - type: ImageBlock
         url: /images/bg3.jpg
