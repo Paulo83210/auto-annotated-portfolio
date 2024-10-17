@@ -1,6 +1,6 @@
 ---
 type: ProjectFeedLayout
-title: Projects
+title: Partenaires
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
