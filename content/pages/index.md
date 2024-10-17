@@ -88,7 +88,7 @@ sections:
       subtitle:
         textAlign: center
   - type: FeaturedItemsSection
-    title: Pourquoi le composable
+    title: Comprendre le Composable
     items:
       - type: FeaturedItem
         title: I'm Fast
