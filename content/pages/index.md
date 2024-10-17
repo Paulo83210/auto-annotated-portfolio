@@ -65,7 +65,7 @@ sections:
         caption: ''
         elementId: ''
     colors: colors-f
-    spacing: 33
+    spacing: 71
     columns: 3
     aspectRatio: '1:1'
     showCaption: false
