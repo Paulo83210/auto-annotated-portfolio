@@ -41,7 +41,8 @@ module.exports = {
             fontFamily: {
                 //fontPrimary: ['DM Mono', 'monospace'],
                 fontPrimary: ['Arial', 'monospace'],
-                fontSecondary: ['Azeret Mono', 'monospace']
+                fontSecondary: ['Azeret Mono', 'monospace'],
+                sans: ['Afacad Flux', 'sans-serif']
             },
             letterSpacing: {
                 wide: '.05em',
