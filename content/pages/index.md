@@ -129,7 +129,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Donnez-nous votre avis !\U0001F4AC"
+    title: "Je veux en savoir plus \U0001F4AC"
     form:
       type: FormBlock
       elementId: sign-up-form
