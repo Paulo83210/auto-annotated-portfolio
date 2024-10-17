@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Contentstack
 colors: colors-a
 date: '2021-10-15'
-client: description de contentstack
+client: Description de Netlify plus étoffée.
 description: Description de Netlify plus étoffée.
 featuredImage:
   type: ImageBlock
