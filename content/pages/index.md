@@ -69,11 +69,6 @@ sections:
         altText: ''
         caption: ''
         elementId: ''
-      - type: ImageBlock
-        url: /images/bg1.jpg
-        altText: ''
-        caption: ''
-        elementId: ''
     colors: colors-f
     spacing: 16
     columns: 3
