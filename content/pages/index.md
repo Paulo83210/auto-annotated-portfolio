@@ -193,72 +193,6 @@ sections:
         justifyContent: flex-end
     subtitle: Le meilleur du composable
     title: Partenaires
-  - type: ContactSection
-    colors: colors-f
-    backgroundSize: full
-    title: "Je veux en savoir plus \U0001F4AC"
-    form:
-      type: FormBlock
-      elementId: sign-up-form
-      fields:
-        - name: Prénom
-          label: Prénom
-          hideLabel: true
-          placeholder: Prénom
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: Nom
-          label: Nom
-          hideLabel: true
-          placeholder: Nom
-          isRequired: false
-          width: 1/2
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: 1/2
-          type: EmailFormControl
-        - name: addresse
-          label: Addresse
-          hideLabel: true
-          placeholder: Addresse
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: updatesConsent
-          label: Je suis d'accord pour recevoir des nouvelles
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
-      submitLabel: "Gooooo \U0001F680"
-      styles:
-        submitLabel:
-          textAlign: center
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-24
-          - pr-4
-          - pl-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      text:
-        textAlign: left
   - type: FeaturedItemsSection
     title: Value propositions
     items:
@@ -433,4 +367,70 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+  - type: ContactSection
+    colors: colors-f
+    backgroundSize: full
+    title: "Je veux en savoir plus \U0001F4AC"
+    form:
+      type: FormBlock
+      elementId: sign-up-form
+      fields:
+        - name: Prénom
+          label: Prénom
+          hideLabel: true
+          placeholder: Prénom
+          isRequired: true
+          width: 1/2
+          type: TextFormControl
+        - name: Nom
+          label: Nom
+          hideLabel: true
+          placeholder: Nom
+          isRequired: false
+          width: 1/2
+          type: TextFormControl
+        - name: email
+          label: Email
+          hideLabel: true
+          placeholder: Email
+          isRequired: true
+          width: 1/2
+          type: EmailFormControl
+        - name: addresse
+          label: Addresse
+          hideLabel: true
+          placeholder: Addresse
+          isRequired: true
+          width: 1/2
+          type: TextFormControl
+        - name: updatesConsent
+          label: Je suis d'accord pour recevoir des nouvelles
+          isRequired: false
+          width: full
+          type: CheckboxFormControl
+      submitLabel: "Gooooo \U0001F680"
+      styles:
+        submitLabel:
+          textAlign: center
+    styles:
+      self:
+        height: auto
+        width: narrow
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-24
+          - pb-24
+          - pr-4
+          - pl-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+      title:
+        textAlign: left
+      text:
+        textAlign: left
 ---
