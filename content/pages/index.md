@@ -46,7 +46,7 @@ sections:
     text: |
       Description
   - type: MediaGallerySection
-    title: Gallery
+    title: Nos partenaires
     subtitle: ''
     images:
       - type: ImageBlock
