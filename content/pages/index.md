@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Titre
+    title: Découvrir Le chantier ATE
     subtitle: Sous-titre
     styles:
       self:
