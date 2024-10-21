@@ -43,7 +43,16 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    text: "Vous venez de vivre une expérience unique avec notre croupier virtuel, capable de vous recommander des jeux sur mesure, même pour les demandes les plus surprenantes. Tout ça, grâce à la magie de vos données !\n\n\_\n\nCe n’est qu’un aperçu de ce que permet le chantier ATE. En connectant intelligemment plusieurs sources de données, nous pouvons créer des expériences révolutionnaires qui réinventent l'avenir du divertissement chez Loto-Québec.\n\n\n\n\n"
+    text: >
+      Vous venez de vivre une expérience unique avec notre croupier virtuel,
+      capable de vous recommander des jeux sur mesure, même pour les demandes
+      les plus surprenantes. Tout ça, grâce à la magie de vos données !
+
+
+      Ce n’est qu’un aperçu de ce que permet le chantier ATE. En connectant
+      intelligemment plusieurs sources de données, nous pouvons créer des
+      expériences révolutionnaires qui réinventent l'avenir du divertissement
+      chez Loto-Québec.
     media:
       type: ImageBlock
       url: /images/bg.jpg
