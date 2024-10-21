@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Découvrir le chantier ATE
-    subtitle: Sous-titre
+    subtitle: Architecture Technologique Experientielle
     styles:
       self:
         height: auto
