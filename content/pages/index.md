@@ -282,7 +282,7 @@ sections:
           elementId: ''
       - type: FeaturedItem
         title: ''
-        subtitle: test
+        subtitle: 'Bases solides '
         text: >+
           La première migration nous a offert une base solide pour les prochains
           projets.
