@@ -537,4 +537,9 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    subtitle: >-
+      Une architecture composable utilise des technologies spécifiques pour
+      répondre précisément aux besoins d'affaires. Elle permet de choisir les
+      meilleurs outils pour chaque fonction, assurant ainsi une adaptation
+      optimale aux exigences commerciales.
 ---
