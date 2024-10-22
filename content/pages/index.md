@@ -255,7 +255,7 @@ sections:
     title: ''
     items:
       - type: FeaturedItem
-        title: I'm Fast
+        title: 'Première migration effectuée : un modèle pour l’avenir'
         subtitle: ''
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
