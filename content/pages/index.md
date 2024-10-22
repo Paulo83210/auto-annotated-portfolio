@@ -548,7 +548,7 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: Le meilleur du composable
-    title: Partenaires
+    title: Nos Partenaires
   - type: MediaGallerySection
     title: Nos partenaires
     subtitle: ''
