@@ -6,7 +6,7 @@ sections:
   - elementId: ''
     colors: colors-a
     backgroundSize: full
-    title: Découvrir le chantier ATE
+    title: "Découvrir le chantier ATE \U0001F680 "
     subtitle: Architecture Technologique Experientielle
     styles:
       self:
