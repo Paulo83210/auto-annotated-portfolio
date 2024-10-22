@@ -205,7 +205,7 @@ sections:
           - pl-4
           - pr-4
         justifyContent: center
-        borderWidth: 4
+        borderWidth: 1
   - type: CtaSection
     title: '2024'
     text: |+
