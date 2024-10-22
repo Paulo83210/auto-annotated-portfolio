@@ -361,10 +361,10 @@ sections:
       - type: FeaturedItem
         title: "Modulaire \U0001F517 "
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >
+          Grâce à notre nouveau Design System, nous réutilisons les composantes,
+          évitant ainsi la duplication et simplifiant la gestion des contenus.
+          Et ça servira pour tout le reste des sections du site!
         actions:
           - type: Button
             label: ''
