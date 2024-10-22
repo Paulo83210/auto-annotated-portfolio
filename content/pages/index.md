@@ -281,18 +281,6 @@ sections:
           caption: Caption of the image
           elementId: ''
       - type: FeaturedItem
-        title: ''
-        subtitle: "Bases solides \U0001FAF0"
-        text: >+
-          La première migration nous a offert une base solide pour les prochains
-          projets.
-
-
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
         title: La formation
         subtitle: ''
         text: >+
