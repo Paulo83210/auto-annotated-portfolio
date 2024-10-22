@@ -127,7 +127,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Évolution
+        title: "\U0001F4C8 Évolution "
         subtitle: ''
         text: >+
           Contrairement à un système monolithique, une architecture composable
