@@ -230,33 +230,6 @@ sections:
         textAlign: center
       text:
         textAlign: center
-  - type: CtaSection
-    title: '2024'
-    text: |+
-      #### **Les avancées majeurs**
-
-    actions: []
-    colors: colors-a
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-16
-          - pb-16
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: col
-      title:
-        textAlign: center
-      text:
-        textAlign: center
-      actions:
-        justifyContent: center
   - type: FeaturedItemsSection
     title: ''
     items:
