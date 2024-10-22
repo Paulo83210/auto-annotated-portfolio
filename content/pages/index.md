@@ -194,7 +194,7 @@ sections:
       meilleurs outils pour chaque fonction, assurant ainsi une adaptation
       optimale aux exigences commerciales.
   - type: DividerSection
-    title: Divider
+    title: ''
     elementId: ''
     styles:
       self:
