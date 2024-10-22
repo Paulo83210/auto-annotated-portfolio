@@ -548,7 +548,9 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: Le meilleur du composable
+    subtitle: >-
+      Avec des technologies modernes telles que Contentstack, Coveo, Netlify,
+      notre architecture est taillée pour l’avenir. 
     title: Nos Partenaires
   - type: ContactSection
     colors: colors-f
