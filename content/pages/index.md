@@ -344,7 +344,7 @@ sections:
       text:
         textAlign: center
   - type: FeaturedItemsSection
-    title: Value propositions
+    title: Résultats concrêts
     items:
       - type: FeaturedItem
         title: I'm Fast
