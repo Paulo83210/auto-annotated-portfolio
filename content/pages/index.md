@@ -311,13 +311,21 @@ sections:
     variant: variant-a
     title: Une transformation humaine et durable
     subtitle: The section subtitle
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >+
+
+      En 2024, le projet ATE a réussi à transformer non seulement la
+      technologie, mais aussi l'adoption par les équipes de ces nouveaux outils
+      grâce à une approche centrée sur l'humain,visant à leur permettre de
+      s'approprier pleinement ces innovations. 
+
+
+      Nous avons lancé un programme formation unique,co-créé avec des
+      partenaires comme Coveo et Netlify. Résultat : plus de 80 employés formés
+      pour gérer les futures migrations de façon autonome etZmaîtriser les
+      nouvelles technologies.
+
+
+
     elementId: ''
     styles:
       self:
