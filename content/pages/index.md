@@ -412,7 +412,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: "ATE \U0001F680"
-    subtitle: "\U0001F680"
+    subtitle: ''
     text: >+
       Vous venez de vivre une expérience unique avec notre croupier virtuel,
       capable de vous recommander des jeux sur mesure, même pour les demandes
