@@ -322,11 +322,8 @@ sections:
       partenaires comme Coveo et Netlify.
 
 
-      **Résultat** : 
-
-
-      plus de 80 employés formés pour gérer les futures migrations de façon
-      autonome et
+      **Résultat** : plus de 80 employés formés pour gérer les futures
+      migrations de façon autonome et
 
       maîtriser les nouvelles technologies.
     elementId: ''
