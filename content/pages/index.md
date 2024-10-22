@@ -313,7 +313,7 @@ sections:
     actions: []
     colors: colors-a
     columns: 1
-    spacingX: 128
+    spacingX: 13
     spacingY: 16
     elementId: ''
     styles:
