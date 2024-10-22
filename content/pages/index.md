@@ -78,6 +78,19 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: narrow
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
   - type: TextSection
     colors: colors-c
     variant: variant-a
@@ -412,17 +425,4 @@ sections:
         textAlign: left
       text:
         textAlign: left
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: narrow
-        padding:
-          - pt-36
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
 ---
