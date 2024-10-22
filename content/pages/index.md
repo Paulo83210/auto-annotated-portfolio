@@ -55,7 +55,6 @@ sections:
       chez Loto-Québec.
     media:
       type: ImageBlock
-      url: /images/bg.jpg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
