@@ -309,7 +309,7 @@ sections:
   - type: TextSection
     colors: colors-c
     variant: variant-a
-    title: Une transformation humaine et durable
+    title: Une transformation
     subtitle: ''
     text: ''
     elementId: ''
