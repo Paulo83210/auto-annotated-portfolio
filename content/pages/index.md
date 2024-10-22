@@ -438,9 +438,14 @@ sections:
   - type: HeroSection
     title: ''
     subtitle: >-
-      This is my info—I'm sharing it all this with ya'll to impress you with all
-      the hard work I've done in the past few years. Once you're impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Cela s'est traduit aussi par un travail étroit avec différentes unités
+      d'affaires au sein de Loto-Québec pour adapter les processus et les
+      pratiques aux nouvelles réalités. Cette transformation a facilité la
+      collaboration entre les services, tout en assurant une meilleure
+      gouvernance des nouveaux outils technologiques.Avec la gestion du
+      changement et une bonne appropriation des outils on s’assure de non
+      seulement de tirer parti des innovations, mais aussi de construire des
+      fondations durables pour les années à venir.
     actions: []
     media:
       type: ImageBlock
