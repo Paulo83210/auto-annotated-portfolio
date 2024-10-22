@@ -120,7 +120,7 @@ sections:
     title: La promesse du composable
     items:
       - type: FeaturedItem
-        title: I'm Fast
+        title: Flexibilité
         subtitle: ''
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
