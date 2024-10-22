@@ -87,32 +87,6 @@ sections:
         textAlign: center
       text:
         textAlign: center
-  - type: CtaSection
-    title: ATE
-    text: |
-      Architecture Technologique Expérientielle
-    actions: []
-    colors: colors-c
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-16
-          - pb-6
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: col
-      title:
-        textAlign: center
-      text:
-        textAlign: center
-      actions:
-        justifyContent: center
   - type: TextSection
     colors: colors-c
     variant: variant-a
