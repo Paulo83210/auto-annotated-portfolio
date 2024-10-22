@@ -282,7 +282,7 @@ sections:
           elementId: ''
       - type: FeaturedItem
         title: ''
-        subtitle: 'Bases solides '
+        subtitle: "Bases solides \U0001FAF0"
         text: >+
           La première migration nous a offert une base solide pour les prochains
           projets.
