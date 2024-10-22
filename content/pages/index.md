@@ -281,7 +281,7 @@ sections:
           caption: Caption of the image
           elementId: ''
       - type: FeaturedItem
-        title: I
+        title: ''
         subtitle: test
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
