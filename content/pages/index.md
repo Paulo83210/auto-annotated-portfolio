@@ -166,7 +166,7 @@ sections:
       actions:
         justifyContent: flex-start
   - type: FeaturedItemsSection
-    title: Value propositions
+    title: '2024 : Les avancées majeurs'
     items:
       - type: FeaturedItem
         title: I'm Fast
