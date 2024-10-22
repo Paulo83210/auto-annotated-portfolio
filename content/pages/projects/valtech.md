@@ -4,8 +4,8 @@ title: Valtech
 date: '2024-10-22'
 client: ''
 description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Valtech est une agence digitale qui accompagne les entreprises dans leur
+  transformation numérique en proposant des solutions innovantes.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
