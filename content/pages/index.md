@@ -182,7 +182,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: I'm Smart
+        title: Un modèle réplicable
         subtitle: Un modèle réplicable
         text: >+
           La première migration nous a offert une base solide pour les prochains
