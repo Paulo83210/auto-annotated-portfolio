@@ -537,7 +537,7 @@ sections:
           - pr-4
         justifyContent: center
         borderWidth: 1
-  - colors: colors-c
+  - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
     actions:
