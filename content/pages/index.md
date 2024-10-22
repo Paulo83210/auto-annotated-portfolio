@@ -411,7 +411,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: "\U0001F680 Découvrir le Chantier ATE "
+    title: "\U0001F680"
     subtitle: Découvrir le chantier ATE
     text: >+
       Vous venez de vivre une expérience unique avec notre croupier virtuel,
