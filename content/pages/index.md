@@ -197,14 +197,7 @@ sections:
     variant: variant-a
     title: '2024'
     subtitle: Des avancées majeures
-    text: >
-      **Première migration effectuée : un modèle pour l’avenir**
-
-
-      En 2024, nous avons relevé un premier défi majeur avec la migration de la
-      section Casino en ligne. Ce projet a prouvé la robustesse de notre
-      nouvelle infrastructure et permis d'affiner nos processus pour les futures
-      étapes
+    text: ''
     elementId: ''
     styles:
       self:
