@@ -68,7 +68,7 @@ sections:
   - type: CtaSection
     title: ATE
     text: |
-      Les avancée majeurs
+      Architecture Technologique Expérientielle
     actions: []
     colors: colors-c
     backgroundSize: full
