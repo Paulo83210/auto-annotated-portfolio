@@ -104,7 +104,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Flexibilité
+        title: ' Flexibilité'
         subtitle: ''
         text: >+
           En se découplant du back-end, cette architecture facilite l'accès et
