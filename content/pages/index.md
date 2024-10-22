@@ -72,7 +72,7 @@ sections:
           - pt-28
           - pb-28
           - pl-6
-          - pr-4
+          - pr-6
         justifyContent: center
       title:
         textAlign: left
