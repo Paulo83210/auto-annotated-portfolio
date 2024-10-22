@@ -280,6 +280,7 @@ sections:
         textAlign: left
       text:
         textAlign: left
+    subtitle: 'Première migration effectuée : un modèle pour l’avenir'
   - type: FeaturedItemsSection
     title: ''
     items:
