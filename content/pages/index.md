@@ -411,7 +411,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: "ATE \U0001F680"
+    title: "\U0001F680 ATE \U0001F680"
     subtitle: ''
     text: >+
       Vous venez de vivre une expérience unique avec notre croupier virtuel,
