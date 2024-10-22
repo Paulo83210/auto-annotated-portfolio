@@ -349,7 +349,11 @@ sections:
       - type: FeaturedItem
         title: 8️⃣0️⃣
         subtitle: ''
-        text: "Nous avons lancé un programme formation unique, co-créé avec des partenaires comme Coveo et Netlify.\n\n**Résultat**\_: plus de 80 employés formés pour gérer les futures migrations de façon autonome et maîtriser les nouvelles technologies.\n"
+        text: >
+          Nous avons lancé un programme formation unique, co-créé avec des
+          partenaires comme Coveo et Netlify. Plus de 80 employés sont formés
+          pour gérer les futures migrations de façon autonome et maîtriser les
+          nouvelles technologies.
         actions: []
         elementId: ''
         styles:
