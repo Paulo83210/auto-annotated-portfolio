@@ -342,7 +342,6 @@ sections:
     subtitle: des équipes plus autonomes et confiantes
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
         altText: logo one
         caption: Premiers sites corporatifs migrés par les équipes de Loto Québec
         elementId: ''
