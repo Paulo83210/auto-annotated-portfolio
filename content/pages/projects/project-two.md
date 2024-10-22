@@ -5,9 +5,8 @@ colors: colors-a
 date: '2021-12-20'
 client: ''
 description: >-
-  Netlify facilite le déploiement et l'hébergement de sites web statiques et
-  d'applications, avec des fonctionnalités comme le déploiement continu et des
-  fonctions sans serveur.
+  Netlify est une plateforme pour héberger et déployer des sites web et des
+  applications web front-end,  simplifiant le workflow des développeurs.
 featuredImage:
   type: ImageBlock
   url: /images/CT.LOGO.png
