@@ -283,7 +283,21 @@ sections:
       - type: FeaturedItem
         title: La formation
         subtitle: ''
-        text: ''
+        text: >+
+          En 2024, le projet ATE a réussi à transformer non seulement la
+          technologie, mais aussi l'adoption par
+
+          les équipes de ces nouveaux outils grâce à une approche centrée sur
+          l'humain,
+
+          visant à leur permettre de s'approprier pleinement ces innovations. 
+
+
+
+
+
+
+
         actions: []
         elementId: ''
         styles:
