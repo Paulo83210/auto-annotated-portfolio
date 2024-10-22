@@ -224,7 +224,7 @@ sections:
     title: ''
     items:
       - type: FeaturedItem
-        title: 'Un modèle réplicable '
+        title: "Un modèle réplicable \U0001F9EC"
         subtitle: ''
         text: >+
           La première migrationnous a offert une base solide pour les prochains
