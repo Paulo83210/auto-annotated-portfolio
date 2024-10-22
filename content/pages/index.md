@@ -452,6 +452,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    subtitle: Des équies plus autonomes et confiances
   - type: MediaGallerySection
     title: Nos partenaires
     subtitle: ''
