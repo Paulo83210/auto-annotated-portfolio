@@ -366,16 +366,7 @@ sections:
           Grâce à notre nouveau Design System, nous réutilisons les composantes,
           évitant ainsi la duplication et simplifiant la gestion des contenus.
           Et ça servira pour tout le reste des sections du site!
-        actions:
-          - type: Button
-            label: ''
-            altText: ''
-            url: /
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
+        actions: []
         elementId: ''
         styles:
           self:
