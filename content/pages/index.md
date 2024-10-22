@@ -308,36 +308,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - type: TextSection
-    colors: colors-f
-    variant: variant-a
-    title: ''
-    text: >+
-      En 2024, nous avons relevé un premier défi majeur avec la migration de la
-      section Casino en ligne. Ce projet a prouvé la robustesse de notre
-      nouvelle infrastructure et permis d'affiner nos processus pour les futures
-      étapes.
-
-
-
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-6
-          - pb-6
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-    subtitle: 'Première migration effectuée : un modèle pour l’avenir'
   - type: FeaturedItemsSection
     title: ''
     items:
@@ -390,6 +360,36 @@ sections:
       actions:
         justifyContent: flex-start
     subtitle: ''
+  - type: TextSection
+    colors: colors-f
+    variant: variant-a
+    title: ''
+    text: >+
+      En 2024, nous avons relevé un premier défi majeur avec la migration de la
+      section Casino en ligne. Ce projet a prouvé la robustesse de notre
+      nouvelle infrastructure et permis d'affiner nos processus pour les futures
+      étapes.
+
+
+
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-6
+          - pb-6
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+    subtitle: 'Première migration effectuée : un modèle pour l’avenir'
   - type: DividerSection
     title: Divider
     elementId: ''
