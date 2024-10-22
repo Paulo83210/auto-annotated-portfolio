@@ -436,7 +436,7 @@ sections:
         justifyContent: flex-start
     subtitle: Des équies plus autonomes et confiances
   - type: TextSection
-    colors: colors-f
+    colors: colors-a
     variant: variant-a
     title: Optimisation
     subtitle: Processus & Amélioration continue
