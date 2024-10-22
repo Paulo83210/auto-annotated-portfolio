@@ -199,7 +199,7 @@ sections:
       #### **Les avancées majeurs**
 
     actions: []
-    colors: colors-d
+    colors: colors-f
     backgroundSize: full
     elementId: ''
     styles:
