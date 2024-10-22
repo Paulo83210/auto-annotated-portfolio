@@ -19,7 +19,7 @@ sections:
           - mr-0
         padding:
           - pt-28
-          - pb-28
+          - pb-6
           - pl-6
           - pr-6
         alignItems: center
