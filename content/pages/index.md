@@ -95,7 +95,7 @@ sections:
     colors: colors-c
     variant: variant-a
     title: ''
-    text: "<div style=\"text-align: left\">Loto-Québec prépare son avenir\_avec le chantier ATE en modernisant son infrastructure technologique pour créer des expériences humaines, personnalisées et pertinentes. Avec cette nouvelle architecture modulaire, un CMS headless, fini le blocage à l’innovation : nous devenons plus flexibles, plus réactifs, et mieux équipés pour relever les défis de demain.</div>\n\n</div>\n\n"
+    text: "<div style=\"text-align: left\">Loto-Québec prépare son avenir\_avec le chantier ATE en modernisant son infrastructure technologique pour créer des expériences humaines, personnalisées et pertinentes. Avec cette nouvelle architecture modulaire, un CMS headless, fini le blocage à l’innovation : nous devenons plus flexibles, plus réactifs, et mieux équipés pour relever les défis de demain.</div>\n\n"
     elementId: ''
     styles:
       self:
