@@ -194,7 +194,7 @@ sections:
       meilleurs outils pour chaque fonction, assurant ainsi une adaptation
       optimale aux exigences commerciales.
   - type: CtaSection
-    title: Let's do this
+    title: '2024'
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
