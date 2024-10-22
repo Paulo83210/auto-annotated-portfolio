@@ -310,7 +310,7 @@ sections:
     colors: colors-c
     variant: variant-a
     title: Une transformation
-    subtitle: ''
+    subtitle: Humaine & Durable
     text: ''
     elementId: ''
     styles:
