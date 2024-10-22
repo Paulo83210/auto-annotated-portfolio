@@ -435,47 +435,6 @@ sections:
       actions:
         justifyContent: flex-start
     subtitle: Des équies plus autonomes et confiances
-  - type: HeroSection
-    title: ''
-    subtitle: >-
-      Cela s'est traduit aussi par un travail étroit avec différentes unités
-      d'affaires au sein de Loto-Québec pour adapter les processus et les
-      pratiques aux nouvelles réalités. Cette transformation a facilité la
-      collaboration entre les services, tout en assurant une meilleure
-      gouvernance des nouveaux outils technologiques.Avec la gestion du
-      changement et une bonne appropriation des outils on s’assure de non
-      seulement de tirer parti des innovations, mais aussi de construire des
-      fondations durables pour les années à venir.
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/test2.png
-      altText: Hero image
-      caption: Caption of the image
-      elementId: ''
-    colors: colors-c
-    backgroundSize: inset
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
   - type: MediaGallerySection
     title: Nos partenaires
     subtitle: ''
