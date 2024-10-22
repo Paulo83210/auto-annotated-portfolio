@@ -349,10 +349,15 @@ sections:
       - type: FeaturedItem
         title: '01'
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: |+
+          Premiers sites corporatifs migrés par les équipes de Loto Québec
+
+
+
+
+
+
+
         featuredImage:
           type: ImageBlock
           url: >-
