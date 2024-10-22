@@ -193,20 +193,6 @@ sections:
       répondre précisément aux besoins d'affaires. Elle permet de choisir les
       meilleurs outils pour chaque fonction, assurant ainsi une adaptation
       optimale aux exigences commerciales.
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-0
-          - pb-16
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
   - type: CtaSection
     title: '2024'
     text: |+
@@ -234,6 +220,20 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
+        borderStyle: solid
   - type: FeaturedItemsSection
     title: '2024 : Les avancées majeurs'
     items:
