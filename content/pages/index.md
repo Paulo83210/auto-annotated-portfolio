@@ -274,6 +274,19 @@ sections:
       actions:
         justifyContent: flex-start
     subtitle: ''
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
   - type: MediaGallerySection
     title: Nos partenaires
     subtitle: ''
