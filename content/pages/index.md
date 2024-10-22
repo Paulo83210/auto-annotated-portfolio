@@ -176,16 +176,7 @@ sections:
           la section Casino en ligne. Ce projet a prouvé la robustesse de notre
           nouvelle infrastructure et permis d'affiner nos processus pour les
           futures étapes.
-        actions:
-          - type: Button
-            label: ''
-            altText: ''
-            url: /
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
+        actions: []
         elementId: ''
         styles:
           self:
