@@ -346,9 +346,8 @@ sections:
   - type: HeroSection
     title: '80'
     subtitle: >-
-      This is my info—I'm sharing it all this with ya'll to impress you with all
-      the hard work I've done in the past few years. Once you're impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      employés formés pour gérer les futures migrations de façon autonome et
+      maîtriser les nouvelles technologies.
     actions:
       - type: Button
         label: Hire me
