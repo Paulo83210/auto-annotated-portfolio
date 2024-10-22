@@ -56,7 +56,7 @@ sections:
     elementId: ''
     actions:
       - type: Link
-        label: + de détails
+        label: Voir + de détails
         url: /projects
     showDate: false
     showDescription: true
