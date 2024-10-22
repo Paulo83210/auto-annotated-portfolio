@@ -511,7 +511,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - colors: colors-f
+  - colors: colors-c
     type: FeaturedProjectsSection
     elementId: ''
     actions:
