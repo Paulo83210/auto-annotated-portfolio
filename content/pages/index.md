@@ -213,10 +213,17 @@ sections:
       - type: FeaturedItem
         title: I'm Focused
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >+
+          En 2024, nous avons relevé un premier défi majeur avec la migration de
+          la section Casino en ligne.
+
+          Ce projet a prouvé la robustesse de notre nouvelle infrastructure et
+          permis
+
+          d'affiner nos processus pour les futures étapes.
+
+
+
         actions:
           - type: Button
             label: ''
