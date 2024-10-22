@@ -9,7 +9,7 @@ description: >-
   notamment la recherche, les recommandations et la personnalisation.
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/coveo.logo.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
