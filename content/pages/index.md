@@ -347,7 +347,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: I'm Smart
+        title: '80'
         subtitle: ''
         text: "Nous avons lancé un programme formation unique, co-créé avec des partenaires comme Coveo et Netlify.\n\n**Résultat**\_: plus de 80 employés formés pour gérer les futures migrations de façon autonome et maîtriser les nouvelles technologies.\n"
         actions: []
