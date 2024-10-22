@@ -7,7 +7,7 @@ client: ''
 description: Description de Netlify plus étoffée.
 featuredImage:
   type: ImageBlock
-  url: /images/Group 9.png
+  url: /images/coveo.logo.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
