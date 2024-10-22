@@ -184,10 +184,12 @@ sections:
       - type: FeaturedItem
         title: I'm Smart
         subtitle: Un modèle réplicable
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >+
+          La première migration nous a offert une base solide pour les prochains
+          projets.
+
+
+
         actions:
           - type: Button
             label: ''
