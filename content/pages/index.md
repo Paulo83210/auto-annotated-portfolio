@@ -63,7 +63,7 @@ sections:
           - pl-4
           - pr-4
         justifyContent: center
-        borderWidth: 5
+        borderWidth: 1
   - type: HeroSection
     title: Mais qu'est-ce que le chantier ATE ?
     subtitle: ''
