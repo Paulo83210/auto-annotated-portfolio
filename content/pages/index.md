@@ -502,10 +502,12 @@ sections:
       - type: FeaturedItem
         title: 'Rétrospective collaborative '
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >+
+          Une analyse avec 50 collaborateurs a permis d’identifier 6 chantiers
+          prioritaires pour améliorer nos méthodes de travail.
+
+
+
         featuredImage:
           type: ImageBlock
           url: >-
