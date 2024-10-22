@@ -195,9 +195,9 @@ sections:
       optimale aux exigences commerciales.
   - type: CtaSection
     title: '2024'
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: |+
+      ## **Les avancées majeurs**
+
     actions:
       - type: Button
         label: Try it now
