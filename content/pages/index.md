@@ -196,7 +196,7 @@ sections:
   - type: CtaSection
     title: '2024'
     text: |+
-      ## **Les avancées majeurs**
+      #### **Les avancées majeurs**
 
     actions:
       - type: Button
