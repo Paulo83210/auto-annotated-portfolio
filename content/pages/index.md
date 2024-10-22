@@ -221,7 +221,7 @@ sections:
       actions:
         justifyContent: center
   - type: FeaturedItemsSection
-    title: Value propositions
+    title: ''
     items:
       - type: FeaturedItem
         title: I'm Fast
