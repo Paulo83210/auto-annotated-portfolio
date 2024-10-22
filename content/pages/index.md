@@ -226,12 +226,9 @@ sections:
       - type: FeaturedItem
         title: "\U0001F9EC Un modèle réplicable"
         subtitle: ''
-        text: >+
-          La première migrationnous a offert une base solide pour les prochains
+        text: >
+          La première migration nous a offert une base solide pour les prochains
           projets.
-
-
-
         actions: []
         elementId: ''
         styles:
