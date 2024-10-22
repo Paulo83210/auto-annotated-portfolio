@@ -338,7 +338,7 @@ sections:
       text:
         textAlign: center
   - type: MediaGallerySection
-    title: Gallery
+    title: Résultats concrêts
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
