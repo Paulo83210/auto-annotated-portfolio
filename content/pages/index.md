@@ -530,6 +530,59 @@ sections:
       text:
         textAlign: center
   - type: FeaturedItemsSection
+    title: ''
+    items:
+      - type: FeaturedItem
+        title: 'Rétrospective collaborative '
+        subtitle: ''
+        text: >+
+          Une analyse avec 50 collaborateurs a permis d’identifier 6 chantiers
+          prioritaires pour améliorer nos méthodes de travail.
+
+
+
+        actions: []
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: 'Analyse des "ways of working" '
+        subtitle: ''
+        text: >+
+          Implémentation de nouvelles pratiques pour fluidifier nos processus et
+          optimiser l’expérience des équipes.
+
+
+
+        actions: []
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+    actions: []
+    colors: colors-c
+    columns: 2
+    spacingX: 16
+    spacingY: 16
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-6
+          - pb-6
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+  - type: FeaturedItemsSection
     title: Résultats concrêts
     items:
       - type: FeaturedItem
@@ -599,59 +652,6 @@ sections:
       actions:
         justifyContent: flex-start
     subtitle: Des équies plus autonomes et confiances
-  - type: FeaturedItemsSection
-    title: ''
-    items:
-      - type: FeaturedItem
-        title: 'Rétrospective collaborative '
-        subtitle: ''
-        text: >+
-          Une analyse avec 50 collaborateurs a permis d’identifier 6 chantiers
-          prioritaires pour améliorer nos méthodes de travail.
-
-
-
-        actions: []
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        title: 'Analyse des "ways of working" '
-        subtitle: ''
-        text: >+
-          Implémentation de nouvelles pratiques pour fluidifier nos processus et
-          optimiser l’expérience des équipes.
-
-
-
-        actions: []
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
-    actions: []
-    colors: colors-c
-    columns: 2
-    spacingX: 16
-    spacingY: 16
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-6
-          - pb-6
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
   - type: DividerSection
     title: Divider
     elementId: ''
