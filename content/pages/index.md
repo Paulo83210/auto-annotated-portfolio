@@ -66,7 +66,7 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: CtaSection
-    title: '2024'
+    title: ATE
     text: |
       Les avancée majeurs
     actions: []
