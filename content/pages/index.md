@@ -350,7 +350,7 @@ sections:
       maîtriser les nouvelles technologies.
     images:
       - type: ImageBlock
-        url: /images/logo3.svg
+        url: /images/test2.png
         altText: logo three
         caption: Caption of the image
         elementId: ''
