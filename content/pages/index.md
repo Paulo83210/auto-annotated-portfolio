@@ -59,7 +59,7 @@ sections:
         label: + de détails
         url: /projects
     showDate: false
-    showDescription: false
+    showDescription: true
     showFeaturedImage: true
     showReadMoreLink: true
     variant: variant-b
