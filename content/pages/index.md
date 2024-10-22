@@ -254,7 +254,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: 'Première migration effectuée : un modèle pour l’avenir'
+    title: ''
     text: >+
       En 2024, nous avons relevé un premier défi majeur avec la migration de la
       section Casino en ligne. Ce projet a prouvé la robustesse de notre
