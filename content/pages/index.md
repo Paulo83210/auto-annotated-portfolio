@@ -366,10 +366,14 @@ sections:
       - type: FeaturedItem
         title: '02'
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >+
+          Une équipe nouvelle (hors JEL et Loteries) qui a reçu uniquement la
+          formation et
+
+          aucun accompagnement.
+
+
+
         actions: []
         elementId: ''
         styles:
