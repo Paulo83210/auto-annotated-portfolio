@@ -183,7 +183,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Un modèle réplicable
-        subtitle: Un modèle réplicable
+        subtitle: ''
         text: >+
           La première migration nous a offert une base solide pour les prochains
           projets.
