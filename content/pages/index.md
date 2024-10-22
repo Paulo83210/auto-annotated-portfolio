@@ -340,7 +340,7 @@ sections:
   - type: MediaGallerySection
     title: '80'
     subtitle: >-
-      employés formés pour gérer les futures migrations de façon autonome et
+      Employés formés pour gérer les futures migrations de façon autonome et
       maîtriser les nouvelles technologies.
     images:
       - type: ImageBlock
