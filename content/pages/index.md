@@ -339,7 +339,7 @@ sections:
         textAlign: center
   - type: MediaGallerySection
     title: Résultats concrêts
-    subtitle: This is the subtitle
+    subtitle: des équipes plus autonomes et confiantes
     images:
       - type: ImageBlock
         url: /images/logo1.svg
