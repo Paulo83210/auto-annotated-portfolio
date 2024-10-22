@@ -117,6 +117,60 @@ sections:
       text:
         textAlign: left
   - type: FeaturedItemsSection
+    title: La promesse du composable
+    items:
+      - type: FeaturedItem
+        title: I'm Fast
+        subtitle: ''
+        text: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
+          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
+          pharetra ipsum dolor, et iaculis elit ornare ac.
+        actions: []
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: I'm Smart
+        subtitle: ''
+        text: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
+          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
+          pharetra ipsum dolor, et iaculis elit ornare ac.
+        actions: []
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+    actions: []
+    colors: colors-c
+    columns: 2
+    spacingX: 16
+    spacingY: 16
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-28
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    subtitle: >-
+      Une architecture composable utilise des technologies spécifiques pour
+      répondre précisément aux besoins d'affaires. Elle permet de choisir les
+      meilleurs outils pour chaque fonction, assurant ainsi une adaptation
+      optimale aux exigences commerciales.
+  - type: FeaturedItemsSection
     title: ''
     items:
       - type: FeaturedItem
@@ -428,58 +482,4 @@ sections:
         textAlign: left
       text:
         textAlign: left
-  - type: FeaturedItemsSection
-    title: La promesse du composable
-    items:
-      - type: FeaturedItem
-        title: I'm Fast
-        subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
-        actions: []
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        title: I'm Smart
-        subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
-        actions: []
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
-    actions: []
-    colors: colors-c
-    columns: 2
-    spacingX: 16
-    spacingY: 16
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-28
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    subtitle: >-
-      Une architecture composable utilise des technologies spécifiques pour
-      répondre précisément aux besoins d'affaires. Elle permet de choisir les
-      meilleurs outils pour chaque fonction, assurant ainsi une adaptation
-      optimale aux exigences commerciales.
 ---
