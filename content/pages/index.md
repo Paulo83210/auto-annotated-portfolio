@@ -219,13 +219,14 @@ sections:
     colors: colors-f
     variant: variant-a
     title: ''
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >+
+      En 2024, nous avons relevé un premier défi majeur avec la migration de la
+      section Casino en ligne. Ce projet a prouvé la robustesse de notre
+      nouvelle infrastructure et permis d'affiner nos processus pour les futures
+      étapes.
+
+
+
     elementId: ''
     styles:
       self:
