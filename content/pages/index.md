@@ -51,20 +51,6 @@ sections:
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: narrow
-        padding:
-          - pt-0
-          - pb-16
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
   - type: CtaSection
     title: ATE
     text: |
