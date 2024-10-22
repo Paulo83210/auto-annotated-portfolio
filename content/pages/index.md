@@ -198,16 +198,7 @@ sections:
     text: |+
       #### **Les avancées majeurs**
 
-    actions:
-      - type: Button
-        label: Try it now
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     colors: colors-c
     backgroundSize: full
     elementId: ''
