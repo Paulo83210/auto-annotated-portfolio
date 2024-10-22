@@ -338,17 +338,9 @@ sections:
       - type: FeaturedItem
         title: "Réplicable \U0001F9EC "
         subtitle: ''
-        text: >+
-          En 2024, nous avons relevé un premier défi majeur avec la migration de
-          la section
-
-          Casino en ligne. Ce projet a prouvé la robustesse de notre nouvelle
-
-          infrastructure et permis d'affiner nos processus pour les futures
-          étapes.
-
-
-
+        text: >
+          La première migration nous a offert une base solide pour les prochains
+          projets.
         actions: []
         elementId: ''
         styles:
