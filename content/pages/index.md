@@ -240,7 +240,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: I'm Smart
+        title: 'Un modèle réplicable '
         subtitle: ''
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
