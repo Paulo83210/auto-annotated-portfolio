@@ -143,7 +143,7 @@ sections:
       text:
         textAlign: left
   - type: FeaturedItemsSection
-    title: La promesse du composable
+    title: ''
     items:
       - type: FeaturedItem
         title: "Flexibilité \U0001FAF0"
