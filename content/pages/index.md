@@ -53,7 +53,7 @@ sections:
       elementId: ''
   - type: MediaGallerySection
     title: ''
-    subtitle: This is the subtitle
+    subtitle: ''
     images:
       - type: ImageBlock
         url: '/images/Capture d’écran, le 2024-10-22 à 15.58.51.png'
