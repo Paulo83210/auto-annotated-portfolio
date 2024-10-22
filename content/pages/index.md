@@ -190,7 +190,7 @@ sections:
       meilleurs outils pour chaque fonction, assurant ainsi une adaptation
       optimale aux exigences commerciales.
   - type: TextSection
-    colors: colors-a
+    colors: colors-f
     variant: variant-a
     title: '2024'
     subtitle: Des avancées majeures
