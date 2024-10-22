@@ -344,7 +344,7 @@ sections:
       - type: ImageBlock
         url: /images/logo1.svg
         altText: logo one
-        caption: ''
+        caption: Premiers sites corporatifs migrés par les équipes de Loto Québec
         elementId: ''
       - type: ImageBlock
         url: /images/logo2.svg
