@@ -345,7 +345,9 @@ sections:
         textAlign: center
   - type: MediaGallerySection
     title: '80'
-    subtitle: This is the subtitle
+    subtitle: >-
+      employés formés pour gérer les futures migrations de façon autonome et
+      maîtriser les nouvelles technologies.
     images:
       - type: ImageBlock
         url: /images/logo3.svg
