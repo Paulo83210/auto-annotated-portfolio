@@ -336,7 +336,7 @@ sections:
     title: ''
     items:
       - type: FeaturedItem
-        title: ''
+        title: "Réplicable \U0001F9EC "
         subtitle: ''
         text: >+
           En 2024, nous avons relevé un premier défi majeur avec la migration de
