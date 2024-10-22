@@ -238,7 +238,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: 'Écosystème modulaire '
+        title: "\U0001F517 Écosystème modulaire"
         subtitle: ''
         text: >+
           Grâce à notre nouveau Design System, nous réutilisons les composantes,
