@@ -193,6 +193,43 @@ sections:
       répondre précisément aux besoins d'affaires. Elle permet de choisir les
       meilleurs outils pour chaque fonction, assurant ainsi une adaptation
       optimale aux exigences commerciales.
+  - type: TextSection
+    colors: colors-f
+    variant: variant-a
+    title: '2024'
+    subtitle: Des avancées majeures
+    text: >+
+      **Première migration effectuée : un modèle pour l’avenir**
+
+
+      En 2024, nous avons relevé un premier défi majeur avec la migration de la
+      section Casino en ligne. Ce projet a prouvé la robustesse de notre
+      nouvelle infrastructure et permis d'affiner nos processus pour les futures
+      étapes
+
+
+
+
+
+
+
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      text:
+        textAlign: center
   - type: CtaSection
     title: '2024'
     text: |+
@@ -419,41 +456,4 @@ sections:
         textAlign: left
       text:
         textAlign: left
-  - type: TextSection
-    colors: colors-f
-    variant: variant-a
-    title: '2024'
-    subtitle: Des avancées majeures
-    text: >+
-      **Première migration effectuée : un modèle pour l’avenir**
-
-
-      En 2024, nous avons relevé un premier défi majeur avec la migration de la
-      section Casino en ligne. Ce projet a prouvé la robustesse de notre
-      nouvelle infrastructure et permis d'affiner nos processus pour les futures
-      étapes
-
-
-
-
-
-
-
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      text:
-        textAlign: center
 ---
