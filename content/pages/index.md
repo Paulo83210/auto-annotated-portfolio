@@ -477,7 +477,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Optimisation
-    subtitle: The section subtitle
+    subtitle: Processus & Amélioration continue
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
