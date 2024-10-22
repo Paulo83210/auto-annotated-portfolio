@@ -384,8 +384,9 @@ sections:
           Et une migration rapide, car seulement 2 à 3 mois de travail par
           projet!
         subtitle: ''
-        text: |
-          03
+        text: >
+          Et une migration rapide, car seulement 2 à 3 mois de travail par
+          projet!
         actions: []
         elementId: ''
         styles:
