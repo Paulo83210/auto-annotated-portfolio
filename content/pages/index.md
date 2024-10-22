@@ -84,7 +84,7 @@ sections:
     title: ''
     items:
       - type: FeaturedItem
-        title: I'm Fast
+        title: La promesse du composable
         subtitle: ''
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
