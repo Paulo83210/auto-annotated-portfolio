@@ -429,7 +429,7 @@ sections:
       text:
         textAlign: left
   - type: FeaturedItemsSection
-    title: ''
+    title: La promesse du composable
     items:
       - type: FeaturedItem
         title: I'm Fast
