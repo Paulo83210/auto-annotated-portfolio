@@ -3,6 +3,43 @@ type: PageLayout
 title: Home
 colors: colors-a
 sections:
+  - type: TextSection
+    colors: colors-f
+    variant: variant-a
+    title: "\U0001F680 ATE \U0001F680"
+    subtitle: Se plonger dans le chantier ATE
+    text: >+
+      Vous venez de vivre une expérience unique avec notre croupier virtuel,
+      capable de vous recommander des jeux sur mesure, même pour les demandes
+      les plus surprenantes. Tout ça, grâce à la magie de vos données !
+
+
+
+
+      Ce n’est qu’un aperçu de ce que permet le chantier ATE. En connectant
+      intelligemment plusieurs sources de données, nous pouvons créer des
+      expériences révolutionnaires qui réinventent l'avenir du divertissement
+      chez Loto-Québec.
+
+
+
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      text:
+        textAlign: center
   - elementId: ''
     colors: colors-a
     backgroundSize: full
@@ -408,41 +445,4 @@ sections:
         textAlign: left
       text:
         textAlign: left
-  - type: TextSection
-    colors: colors-f
-    variant: variant-a
-    title: "\U0001F680 ATE \U0001F680"
-    subtitle: Se plonger dans le chantier ATE
-    text: >+
-      Vous venez de vivre une expérience unique avec notre croupier virtuel,
-      capable de vous recommander des jeux sur mesure, même pour les demandes
-      les plus surprenantes. Tout ça, grâce à la magie de vos données !
-
-
-
-
-      Ce n’est qu’un aperçu de ce que permet le chantier ATE. En connectant
-      intelligemment plusieurs sources de données, nous pouvons créer des
-      expériences révolutionnaires qui réinventent l'avenir du divertissement
-      chez Loto-Québec.
-
-
-
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      text:
-        textAlign: center
 ---
