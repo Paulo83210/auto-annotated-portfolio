@@ -310,7 +310,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Une transformation humaine et durable
-    subtitle: The section subtitle
+    subtitle: ''
     text: >+
 
       En 2024, le projet ATE a réussi à transformer non seulement la
