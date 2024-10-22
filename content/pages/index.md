@@ -86,10 +86,18 @@ sections:
       - type: FeaturedItem
         title: La promesse du composable
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >+
+          Une architecture composable utilise des technologies spécifiques pour
+          répondre précisément aux
+
+          besoins d'affaires. Elle permet de choisir les meilleurs outils pour
+          chaque
+
+          fonction, assurant ainsi une adaptation optimale aux exigences
+          commerciales.
+
+
+
         actions: []
         elementId: ''
         styles:
