@@ -271,7 +271,7 @@ sections:
           caption: Caption of the image
           elementId: ''
       - type: FeaturedItem
-        title: Programme de formation
+        title: La formation
         subtitle: ''
         text: ''
         actions: []
