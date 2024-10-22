@@ -106,10 +106,21 @@ sections:
       - type: FeaturedItem
         title: Flexibilité
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >+
+          En se découplant du back-end, cette architecture facilite l'accès et
+          l'utilisation des données sur
+
+          diverses interfaces. Cela permet une flexibilité accrue et une
+          meilleure
+
+          expérience utilisateur, indépendamment de la plateforme.
+
+
+
+
+
+
+
         actions: []
         elementId: ''
         styles:
