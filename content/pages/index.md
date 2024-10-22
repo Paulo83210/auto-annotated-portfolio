@@ -143,10 +143,24 @@ sections:
       - type: FeaturedItem
         title: Évolution
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >+
+          Contrairement à un système monolithique, une architecture composable
+          offre une modularité qui simplifie les mises à jour et les
+          intégrations. Elle permet une évolution rapide et efficace, réduisant
+          les délais de mise sur le marché.
+
+
+
+
+
+
+
+
+
+
+
+
+
         actions: []
         elementId: ''
         styles:
