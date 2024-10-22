@@ -104,7 +104,7 @@ sections:
     title: ''
     items:
       - type: FeaturedItem
-        title: "\U0001F680 La promesse du composable"
+        title: La promesse du composable
         subtitle: ''
         text: >+
           Une architecture composable utilise des technologies spécifiques pour
