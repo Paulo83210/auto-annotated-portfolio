@@ -117,7 +117,7 @@ sections:
       text:
         textAlign: left
   - type: FeaturedProjectsSection
-    subtitle: 'Projects:'
+    subtitle: La promesse du composable
     actions:
       - type: Link
         label: See all projects
