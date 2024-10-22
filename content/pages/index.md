@@ -382,10 +382,12 @@ sections:
       - type: FeaturedItem
         title: '03'
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >+
+          Et une migration rapide, car seulement 2 à 3 mois de travail par
+          projet!
+
+
+
         actions: []
         elementId: ''
         styles:
