@@ -413,13 +413,21 @@ sections:
     variant: variant-a
     title: Découvrir le Chantier ATE
     subtitle: ''
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >+
+      Vous venez de vivre une expérience unique avec notre croupier virtuel,
+      capable de vous recommander des jeux sur mesure, même pour les demandes
+      les plus surprenantes. Tout ça, grâce à la magie de vos données !
+
+
+
+
+      Ce n’est qu’un aperçu de ce que permet le chantier ATE. En connectant
+      intelligemment plusieurs sources de données, nous pouvons créer des
+      expériences révolutionnaires qui réinventent l'avenir du divertissement
+      chez Loto-Québec.
+
+
+
     elementId: ''
     styles:
       self:
