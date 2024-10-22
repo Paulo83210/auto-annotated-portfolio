@@ -566,7 +566,7 @@ sections:
       notre architecture est taillée pour l’avenir. 
     title: Nos Partenaires
   - type: ContactSection
-    colors: colors-c
+    colors: colors-a
     backgroundSize: full
     title: "Je veux en savoir plus \U0001F4AC"
     form:
