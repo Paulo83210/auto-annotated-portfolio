@@ -348,16 +348,7 @@ sections:
     subtitle: >-
       employés formés pour gérer les futures migrations de façon autonome et
       maîtriser les nouvelles technologies.
-    actions:
-      - type: Button
-        label: Hire me
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     media:
       type: ImageBlock
       url: /images/about.jpg
