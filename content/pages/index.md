@@ -65,33 +65,6 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: HeroSection
-    title: Mais qu'est-ce que le chantier ATE ?
-    subtitle: ''
-    actions: []
-    colors: colors-c
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-16
-          - pb-0
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: flex-start
-        flexDirection: row
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
   - type: CtaSection
     title: '2024'
     text: |
