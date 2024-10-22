@@ -283,10 +283,11 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: test
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          La première migration nous a offert une base solide pour les prochains
+          projets.
+
+
         elementId: ''
         styles:
           self:
