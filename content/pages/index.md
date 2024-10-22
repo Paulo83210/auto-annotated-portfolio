@@ -112,6 +112,45 @@ sections:
         textAlign: left
       text:
         textAlign: left
+  - colors: colors-f
+    type: FeaturedProjectsSection
+    elementId: ''
+    actions:
+      - type: Link
+        label: Voir tous les partenaires
+        url: /projects
+    showDate: false
+    showDescription: true
+    showFeaturedImage: true
+    showReadMoreLink: true
+    variant: variant-b
+    projects:
+      - content/pages/projects/project-two.md
+      - content/pages/projects/project-three.md
+      - content/pages/projects/project-one.md
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: flex-end
+    subtitle: Le meilleur du composable
+    title: Partenaires
   - type: FeaturedItemsSection
     title: La promesse du composable
     items:
@@ -435,45 +474,6 @@ sections:
       actions:
         justifyContent: flex-start
     subtitle: Des équies plus autonomes et confiances
-  - colors: colors-f
-    type: FeaturedProjectsSection
-    elementId: ''
-    actions:
-      - type: Link
-        label: Voir tous les partenaires
-        url: /projects
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    variant: variant-b
-    projects:
-      - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-end
-    subtitle: Le meilleur du composable
-    title: Partenaires
   - type: MediaGallerySection
     title: Nos partenaires
     subtitle: ''
