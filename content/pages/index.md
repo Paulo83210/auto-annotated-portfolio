@@ -120,7 +120,7 @@ sections:
     title: La promesse du composable
     items:
       - type: FeaturedItem
-        title: Flexibilité
+        title: "Flexibilité \U0001F4C8"
         subtitle: ''
         text: >+
           En se découplant du back-end, cette architecture facilite l'accès et
