@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 sections:
   - elementId: ''
-    colors: colors-a
+    colors: colors-b
     backgroundSize: full
     title: "Découvrir le chantier ATE \U0001F680 "
     subtitle: ''
