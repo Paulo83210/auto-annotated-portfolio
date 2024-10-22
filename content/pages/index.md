@@ -107,7 +107,7 @@ sections:
           - pl-6
           - pr-6
         justifyContent: center
-        borderRadius: small
+        borderRadius: none
         borderColor: border-secondary
         borderWidth: 0
       title:
