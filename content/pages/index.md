@@ -307,7 +307,7 @@ sections:
         justifyContent: center
         borderWidth: 1
   - type: TextSection
-    colors: colors-f
+    colors: colors-d
     variant: variant-a
     title: Une transformation humaine et durable
     subtitle: ''
