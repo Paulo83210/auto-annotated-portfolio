@@ -190,6 +190,29 @@ sections:
       meilleurs outils pour chaque fonction, assurant ainsi une adaptation
       optimale aux exigences commerciales.
   - type: TextSection
+    colors: colors-a
+    variant: variant-a
+    title: '2024'
+    subtitle: Des avancées majeures
+    text: ''
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-16
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      text:
+        textAlign: center
+  - type: TextSection
     colors: colors-f
     variant: variant-a
     title: ''
@@ -218,29 +241,6 @@ sections:
         textAlign: left
       text:
         textAlign: left
-  - type: TextSection
-    colors: colors-a
-    variant: variant-a
-    title: '2024'
-    subtitle: Des avancées majeures
-    text: ''
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-16
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      text:
-        textAlign: center
   - type: FeaturedItemsSection
     title: ''
     items:
