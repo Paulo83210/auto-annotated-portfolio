@@ -337,38 +337,6 @@ sections:
         textAlign: center
       text:
         textAlign: center
-  - type: MediaGallerySection
-    title: '80'
-    subtitle: >-
-      Employés formés pour gérer les futures migrations de façon autonome et
-      maîtriser les nouvelles technologies.
-    images:
-      - type: ImageBlock
-        url: /images/test2.png
-        altText: logo three
-        caption: Caption of the image
-        elementId: ''
-    colors: colors-a
-    spacing: 16
-    columns: 1
-    aspectRatio: '16:9'
-    showCaption: true
-    enableHover: false
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
   - type: HeroSection
     title: '80'
     subtitle: >-
