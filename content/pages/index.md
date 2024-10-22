@@ -55,7 +55,7 @@ sections:
     title: Mais qu'est-ce que le chantier ATE ?
     subtitle: ''
     actions: []
-    colors: colors-f
+    colors: colors-c
     backgroundSize: full
     elementId: ''
     styles:
