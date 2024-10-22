@@ -413,58 +413,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - type: FeaturedItemsSection
-    title: ''
-    items:
-      - type: FeaturedItem
-        title: "Réplicable \U0001F9EC "
-        subtitle: ''
-        text: >
-          La première migration nous a offert une base solide pour les prochains
-          projets.
-        actions: []
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        title: "Modulaire \U0001F517 "
-        subtitle: ''
-        text: >+
-          Grâce à notre nouveau Design System, nous réutilisons les composantes,
-          évitant ainsi la duplication et simplifiant la gestion des contenus.
-          Et ça servira pour tout le reste des sections du site! 
-
-
-
-        actions: []
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
-    actions: []
-    colors: colors-f
-    columns: 2
-    spacingX: 16
-    spacingY: 16
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-16
-          - pb-0
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    subtitle: ''
   - type: TextSection
     colors: colors-f
     variant: variant-a
