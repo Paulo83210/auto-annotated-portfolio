@@ -320,7 +320,7 @@ sections:
         justifyContent: center
         borderWidth: 1
   - type: TextSection
-    colors: colors-c
+    colors: colors-f
     variant: variant-a
     title: Une transformation
     subtitle: Humaine & Durable
