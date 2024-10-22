@@ -65,7 +65,7 @@ sections:
         justifyContent: center
         borderWidth: 1
   - type: TextSection
-    colors: colors-a
+    colors: colors-c
     variant: variant-a
     title: ATE
     subtitle: Architecture Technologique Expérientielle
