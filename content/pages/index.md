@@ -108,6 +108,7 @@ sections:
           - pr-6
         justifyContent: center
         borderRadius: small
+        borderColor: border-secondary
       title:
         textAlign: left
       subtitle:
