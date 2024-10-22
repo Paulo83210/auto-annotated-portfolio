@@ -106,7 +106,7 @@ sections:
           - pb-0
           - pl-6
           - pr-6
-        justifyContent: center
+        justifyContent: flex-end
         borderRadius: none
         borderColor: border-secondary
         borderWidth: 0
