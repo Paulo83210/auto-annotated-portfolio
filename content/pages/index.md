@@ -337,41 +337,6 @@ sections:
         textAlign: center
       text:
         textAlign: center
-  - type: HeroSection
-    title: '80'
-    subtitle: >-
-      employés formés pour gérer les futures migrations de façon autonome et
-      maîtriser les nouvelles technologies.
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/about.jpg
-      altText: Hero image
-      caption: Caption of the image
-      elementId: ''
-    colors: colors-c
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
   - type: MediaGallerySection
     title: Nos partenaires
     subtitle: ''
