@@ -373,7 +373,7 @@ sections:
       text:
         textAlign: center
   - type: TextSection
-    colors: colors-f
+    colors: colors-c
     variant: variant-a
     title: ''
     text: >
