@@ -4,7 +4,9 @@ title: Coveo
 colors: colors-a
 date: '2022-01-22'
 client: ''
-description: Description de Netlify plus étoffée.
+description: >-
+  Coveo utilise l'IA pour personnaliser l'expérience numérique des utilisateurs,
+  notamment la recherche, les recommandations et la personnalisation.
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
