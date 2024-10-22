@@ -220,6 +220,19 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
   - type: FeaturedItemsSection
     title: '2024 : Les avancées majeurs'
     items:
@@ -447,17 +460,4 @@ sections:
         textAlign: left
       text:
         textAlign: left
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-36
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
 ---
