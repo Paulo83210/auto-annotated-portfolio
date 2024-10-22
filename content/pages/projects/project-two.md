@@ -5,9 +5,9 @@ colors: colors-a
 date: '2021-12-20'
 client: ''
 description: >-
-  Netlify is a platform that simplifies the deployment and hosting of static
-  websites and web applications, providing features like continuous deployment,
-  serverless functions, and content management.
+  Netlify est une plateforme qui facilite le déploiement et l'hébergement de
+  sites web statiques et d'applications, avec des fonctionnalités comme le
+  déploiement continu et des fonctions sans serveur.
 featuredImage:
   type: ImageBlock
   url: /images/CT.LOGO.png
