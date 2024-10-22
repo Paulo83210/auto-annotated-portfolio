@@ -242,10 +242,12 @@ sections:
       - type: FeaturedItem
         title: 'Un modèle réplicable '
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >+
+          La première migrationnous a offert une base solide pour les prochains
+          projets.
+
+
+
         actions: []
         elementId: ''
         styles:
