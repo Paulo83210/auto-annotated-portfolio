@@ -169,7 +169,7 @@ sections:
     title: '2024 : Les avancées majeurs'
     items:
       - type: FeaturedItem
-        title: I'm Fast
+        title: ''
         subtitle: ''
         text: >
           En 2024, nous avons relevé un premier défi majeur avec la migration de
