@@ -51,36 +51,6 @@ sections:
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
-  - type: MediaGallerySection
-    title: ''
-    subtitle: ''
-    images:
-      - type: ImageBlock
-        url: '/images/Capture d’écran, le 2024-10-22 à 16.03.59.png'
-        altText: Image one
-        caption: Image one caption
-        elementId: ''
-    colors: colors-f
-    spacing: 16
-    columns: 1
-    aspectRatio: '16:9'
-    showCaption: false
-    enableHover: true
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: full
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
   - type: DividerSection
     title: Divider
     elementId: ''
