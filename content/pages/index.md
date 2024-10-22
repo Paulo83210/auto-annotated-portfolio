@@ -95,7 +95,7 @@ sections:
     colors: colors-c
     variant: variant-a
     title: ''
-    text: "<div style=\"text-align: center\">Loto-Québec prépare son avenir\_avec le projet ATE (Architecture Technologique et Expérientielle).## **L’objectif ?** Moderniser l’infrastructure technologique pour créer des expériences humaines, personnalisées et pertinentes. Avec cette nouvelle architecture modulaire, un CMS headless, fini le blocage à l’innovation : nous devenons plus flexibles, plus réactifs, et mieux équipés pour relever les défis de demain.</div>\n\n"
+    text: "<div style=\"text-align: center\">Loto-Québec prépare son avenir\_avec le projet ATE (Architecture Technologique et Expérientielle).**L’objectif ?** Moderniser l’infrastructure technologique pour créer des expériences humaines, personnalisées et pertinentes. Avec cette nouvelle architecture modulaire, un CMS headless, fini le blocage à l’innovation : nous devenons plus flexibles, plus réactifs, et mieux équipés pour relever les défis de demain.</div>\n\n"
     elementId: ''
     styles:
       self:
