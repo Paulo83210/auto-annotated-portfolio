@@ -271,7 +271,7 @@ sections:
           caption: Caption of the image
           elementId: ''
       - type: FeaturedItem
-        title: Une transformation humaine et durable
+        title: Programme de formation
         subtitle: ''
         text: ''
         actions: []
