@@ -51,28 +51,6 @@ sections:
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
-  - type: TextSection
-    colors: colors-c
-    variant: variant-a
-    title: Mais qu’est-ce que le chantier ATE ?
-    text: "Loto-Québec prépare son avenir\_avec le projet ATE (Architecture Technologique et Expérientielle). \n\nL’objectif ? Moderniser l’infrastructure technologique pour créer des expériences humaines, personnalisées et pertinentes. Avec cette nouvelle architecture modulaire, un CMS headless, fini le blocage à l’innovation : nous devenons plus flexibles, plus réactifs, et mieux équipés pour relever les défis de demain.\n"
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-0
-          - pl-6
-          - pr-6
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
   - type: HeroSection
     title: Mais qu'est-ce que le chantier ATE ?
     subtitle: ''
@@ -100,6 +78,28 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+  - type: TextSection
+    colors: colors-c
+    variant: variant-a
+    title: Mais qu’est-ce que le chantier ATE ?
+    text: "Loto-Québec prépare son avenir\_avec le projet ATE (Architecture Technologique et Expérientielle). \n\nL’objectif ? Moderniser l’infrastructure technologique pour créer des expériences humaines, personnalisées et pertinentes. Avec cette nouvelle architecture modulaire, un CMS headless, fini le blocage à l’innovation : nous devenons plus flexibles, plus réactifs, et mieux équipés pour relever les défis de demain.\n"
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-0
+          - pl-6
+          - pr-6
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
   - type: FeaturedItemsSection
     title: ''
     items:
