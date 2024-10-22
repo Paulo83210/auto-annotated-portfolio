@@ -255,7 +255,7 @@ sections:
     title: ''
     items:
       - type: FeaturedItem
-        title: 'Première migration effectuée : un modèle pour l’avenir'
+        title: Première migration
         subtitle: ''
         text: ''
         actions: []
