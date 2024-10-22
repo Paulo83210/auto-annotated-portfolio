@@ -71,7 +71,7 @@ sections:
         padding:
           - pt-28
           - pb-28
-          - pl-7
+          - pl-6
           - pr-4
         justifyContent: center
       title:
