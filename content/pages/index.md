@@ -74,9 +74,7 @@ sections:
       text:
         textAlign: left
   - type: HeroSection
-    title: >-
-      I'm a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+    title: Mais qu'est-ce que le chantier ATE ?
     subtitle: ''
     actions: []
     colors: colors-f
