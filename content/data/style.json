@@ -30,7 +30,7 @@
         "weight": "normal",
         "decoration": "none",
         "case": "uppercase",
-        "letterSpacing": "normal"
+        "letterSpacing": "tight"
     },
     "h4": {
         "size": "3xl",
