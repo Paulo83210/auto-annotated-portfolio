@@ -64,6 +64,7 @@ sections:
           - pr-4
         justifyContent: center
         borderWidth: 1
+        borderStyle: dashed
   - type: HeroSection
     title: Mais qu'est-ce que le chantier ATE ?
     subtitle: ''
