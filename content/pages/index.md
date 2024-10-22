@@ -550,48 +550,6 @@ sections:
         justifyContent: flex-end
     subtitle: Le meilleur du composable
     title: Nos Partenaires
-  - type: MediaGallerySection
-    title: Nos partenaires
-    subtitle: ''
-    images:
-      - type: ImageBlock
-        url: /images/netlify-logo-png-transparent 2-2.png
-        altText: ''
-        caption: ''
-        elementId: ''
-      - type: ImageBlock
-        url: /images/CT.LOGO.png
-        altText: ''
-        caption: ''
-        elementId: ''
-      - type: ImageBlock
-        url: /images/coveo.logo.png
-        altText: ''
-        caption: ''
-        elementId: ''
-    colors: colors-f
-    spacing: 131
-    columns: 3
-    aspectRatio: '1:1'
-    showCaption: true
-    enableHover: false
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-36
-          - pb-48
-          - pl-6
-          - pr-6
-        justifyContent: center
-        margin:
-          - mr-0
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
