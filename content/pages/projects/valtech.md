@@ -4,8 +4,8 @@ title: Valtech
 date: '2024-10-22'
 client: ''
 description: >-
-  Valtech est une agence digitale qui accompagne les entreprises dans leur
-  transformation numérique en proposant des solutions innovantes.
+  Valtech est une agence digitale internationale qui accompagne les entreprises
+  dans leur transformation numérique en proposant des solutions innovantes.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
