@@ -56,7 +56,7 @@ sections:
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: '/images/Capture d’écran, le 2024-10-22 à 15.58.51.png'
         altText: Image one
         caption: Image one caption
         elementId: ''
