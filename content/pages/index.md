@@ -380,7 +380,9 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: '03'
+        title: >-
+          Et une migration rapide, car seulement 2 à 3 mois de travail par
+          projet!
         subtitle: ''
         text: >+
           Et une migration rapide, car seulement 2 à 3 mois de travail par
