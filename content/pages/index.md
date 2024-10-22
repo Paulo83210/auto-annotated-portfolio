@@ -349,10 +349,7 @@ sections:
       - type: FeaturedItem
         title: I'm Smart
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: "Nous avons lancé un programme formation unique, co-créé avec des partenaires comme Coveo et Netlify.\n\n**Résultat**\_: plus de 80 employés formés pour gérer les futures migrations de façon autonome et maîtriser les nouvelles technologies.\n"
         actions: []
         elementId: ''
         styles:
