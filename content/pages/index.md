@@ -311,7 +311,7 @@ sections:
     variant: variant-a
     title: Une transformation humaine et durable
     subtitle: ''
-    text: >
+    text: >+
       En 2024, le projet ATE a réussi à transformer non seulement la
       technologie, mais aussi l'adoption par les équipes de ces nouveaux outils
       grâce à une approche centrée sur l'humain,visant à leur permettre de
@@ -320,6 +320,20 @@ sections:
 
       Nous avons lancé un programme formation unique,co-créé avec des
       partenaires comme Coveo et Netlify.
+
+
+      Résultat : plus de 80
+
+      employés formés pour gérer les futures migrations de façon autonome et
+
+      maîtriser les nouvelles technologies.
+
+
+
+
+
+
+
     elementId: ''
     styles:
       self:
