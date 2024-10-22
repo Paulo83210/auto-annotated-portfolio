@@ -403,29 +403,6 @@ sections:
         textAlign: left
       text:
         textAlign: left
-  - type: TextSection
-    colors: colors-f
-    variant: variant-a
-    title: Optimisation
-    subtitle: Processus & Amélioration continue
-    text: ''
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      text:
-        textAlign: center
   - type: FeaturedItemsSection
     title: Résultats concrêts
     items:
@@ -496,6 +473,29 @@ sections:
       actions:
         justifyContent: flex-start
     subtitle: Des équies plus autonomes et confiances
+  - type: TextSection
+    colors: colors-f
+    variant: variant-a
+    title: Optimisation
+    subtitle: Processus & Amélioration continue
+    text: ''
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      text:
+        textAlign: center
   - type: FeaturedItemsSection
     title: ''
     items:
