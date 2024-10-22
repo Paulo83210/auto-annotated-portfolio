@@ -412,7 +412,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: "\U0001F680Découvrir le chantier ATE"
-    subtitle: Découvrir le chantier ATE
+    subtitle: "\U0001F680"
     text: >+
       Vous venez de vivre une expérience unique avec notre croupier virtuel,
       capable de vous recommander des jeux sur mesure, même pour les demandes
