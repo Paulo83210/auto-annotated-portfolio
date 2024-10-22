@@ -116,36 +116,6 @@ sections:
         textAlign: left
       text:
         textAlign: left
-  - type: FeaturedProjectsSection
-    subtitle: La promesse du composable
-    actions: []
-    projects:
-      - content/pages/projects/project-one.md
-      - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
-    colors: colors-c
-    variant: variant-b
-    elementId: ''
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: center
   - type: FeaturedItemsSection
     title: ''
     items:
