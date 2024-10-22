@@ -348,7 +348,7 @@ sections:
         altText: logo three
         caption: Caption of the image
         elementId: ''
-    colors: colors-e
+    colors: colors-a
     spacing: 16
     columns: 1
     aspectRatio: '16:9'
