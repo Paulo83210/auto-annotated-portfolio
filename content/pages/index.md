@@ -211,13 +211,7 @@ sections:
     variant: variant-a
     title: Mais qu’est-ce que le chantier ATE ?
     subtitle: ''
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: "Loto-Québec prépare son avenir\_avec le projet ATE (Architecture Technologique et Expérientielle). L’objectif ? Moderniser l’infrastructure technologique pour créer des expériences humaines, personnalisées et pertinentes. Avec cette nouvelle architecture modulaire, un CMS headless, fini le blocage à l’innovation : nous devenons plus flexibles, plus réactifs, et mieux équipés pour relever les défis de demain.\n\n\n\n\n"
     elementId: ''
     styles:
       self:
