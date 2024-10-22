@@ -192,18 +192,6 @@ sections:
         styles:
           self:
             textAlign: left
-      - type: FeaturedItem
-        title: Composable
-        subtitle: ''
-        text: >
-          Une architecture composable utilise des technologies spécifiques pour
-          répondre précisément aux besoins d'affaires. Elle permet de choisir
-          les meilleurs outils pour chaque fonction, assurant ainsi une
-          adaptation optimale aux exigences commerciales.
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
     actions: []
     colors: colors-c
     columns: 3
