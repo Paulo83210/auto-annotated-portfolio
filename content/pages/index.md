@@ -458,19 +458,6 @@ sections:
         textAlign: center
       text:
         textAlign: center
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-36
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
   - type: FeaturedItemsSection
     title: ''
     items:
@@ -565,6 +552,19 @@ sections:
       Avec des technologies modernes telles que Contentstack, Coveo, Netlify,
       notre architecture est taillée pour l’avenir. 
     title: Nos Partenaires
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
   - type: ContactSection
     colors: colors-a
     backgroundSize: full
