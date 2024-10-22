@@ -285,7 +285,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    subtitle: 'Première migration effectuée : un modèle pour l’avenir'
+    subtitle: ''
   - type: MediaGallerySection
     title: Nos partenaires
     subtitle: ''
